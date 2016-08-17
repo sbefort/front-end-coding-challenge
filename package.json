@@ -1,0 +1,45 @@
+{
+  "name": "frontend-developer-challenge",
+  "version": "1.0.0",
+  "description": "Sheesh. There's a lot wrong with this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rprovost/code-test-creation.git"
+  },
+  "keywords": [
+    "frontend",
+    "challenge"
+  ],
+  "author": "Ryan Provost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rprovost/code-test-creation/issues"
+  },
+  "homepage": "https://github.com/rprovost/code-test-creation#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-main-bower-files": "^1.5.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "istanbul": "^0.4.4",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.1.1",
+    "karma-coverage-es6": "^0.2.7",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-read-json": "^1.1.0"
+  },
+  "dependencies": {}
+}
