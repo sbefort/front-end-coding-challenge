@@ -47,4 +47,4 @@ A: That really depends on you.
 
 **Q: Can I rewrite this in React?**
 
-A: While React is a very popular library today, all of our code is written in Angular and we'd like to see your competancy with our stack.
+A: While React is a very popular library today, all of our code is written in Angular and we'd like to see your competency with our stack.
