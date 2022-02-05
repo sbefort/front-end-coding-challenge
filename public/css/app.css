@@ -12,7 +12,33 @@
   right: 1em;
 }
 
-#tag-browser .active {
-  background: purple;
+#tag-browser .matching-items-list > li {
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.3rem;
+}
+
+#tag-browser .is-active {
+  background-color: purple;
+}
+
+#tag-browser li.is-active {
+  list-style-type: none;
+}
+
+#tag-browser li.is-active > a {
   color: white;
+}
+
+button {
+  margin-bottom: 0.5rem;
+}
+
+/* warnerbros.com effect */
+.selected-item img {
+  transition: all 0.4s ease 0s
+}
+
+.selected-item img:hover {
+  transform: scale(1.08);
+  margin-bottom: 1.2rem;
 }
